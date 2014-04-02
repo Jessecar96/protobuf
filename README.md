@@ -4,7 +4,7 @@ It now works with the NodeJS 0.8.x series.
 
 To install, just type:
 
-    npm install protobuf
+    npm install git://github.com/Jessecar96/protobuf.git
 
 Thanks to work by seishun, it now uses node-gyp and has google's protocol bufferes library integrated, so no separate installtion required.
 
